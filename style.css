@@ -1,7 +1,7 @@
 html{
     font-size: 24px;
     font-family: 'Kanit', sans-serif;
-    background-color: yellow;
+    background-color: rgb(247, 247, 124);
     color: blue;
 }
 
@@ -15,7 +15,7 @@ image{
 }
 
 a{
-    color: blueviolet;
+    color: rgb(187, 130, 240);
 }
 
 a:hover
@@ -32,7 +32,7 @@ a:hover
 }
 
 .themes{
-    background-color: blueviolet;
+    background-color: rgb(189, 146, 230);
 }
 
 .vertbor{
